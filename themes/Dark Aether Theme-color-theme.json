@@ -83,6 +83,13 @@
       }
     },
     {
+      "name": "keyword.other.definition.ini and keyword.other.unit.hexadecimal",
+      "scope": "keyword.other.definition.ini,keyword.other.unit.hexadecimal",
+      "settings": {
+        "foreground": "#cb5c5c"
+      }
+    },
+    {
       "name": "variable.language.rust",
       "scope": "variable.language.rust",
       "settings": {
@@ -464,7 +471,7 @@
     },
     {
       "name": "Operators",
-      "scope": "keyword.operator,keyword.operator.logical,keyword.operator.comparison,keyword.operator.bitwise",
+      "scope": "keyword.operator,keyword.operator.logical,keyword.operator.comparison,keyword.operator.bitwise,keyword.operator.assignment.compound.bitwise",
       "settings": {
         "foreground": "#ce4949"
       }
@@ -1984,6 +1991,7 @@
     "badge.background": "#81a5bc",
     "badge.foreground": "#0f1619",
     "terminal.border": "#86a6ac",
+    "outputView.background": "#182126", 
     // * Terminal Text
     "terminal.foreground": "#C1BDB0",
     "terminal.ansiBlack": "#000000",
@@ -2084,16 +2092,13 @@
     "editor.findMatchHighlightBorder": "#2d8484",
     "editor.findRangeHighlightBackground": "#2f434b8d",
     "editor.findRangeHighlightBorder": "#ffffff00",
-    "editor.rangeHighlightBackground": "#337575a9",
-    "editor.rangeHighlightBorder": "#00ffff",
+    "editor.rangeHighlightBackground": "#2d666675",
     "editor.hoverHighlightBackground": "#0f1619e7",
     "editor.wordHighlightStrongBackground": "#337575b9",
     "editor.wordHighlightBackground": "#598484b8",
     "editor.lineHighlightBackground": "#0e131677",
     "editor.lineHighlightBorder": "#9cb3bf11",
     "editorLink.activeForeground": "#4ebcb2",
-    /* "editorIndentGuide.background": "#404040",
-    "editorIndentGuide.activeBackground": "#707070", */
     "editorRuler.foreground": "#283840dd",
     "editorBracketMatch.background": "#000000",
     "editorBracketMatch.border": "#c9a725",
