@@ -1,8 +1,21 @@
 {
   "name": "dark-aether-theme",
   "displayName": "Dark Aether Theme",
+  "publisher": "MechAsh",
   "description": "A VS Code Theme by Ashish Jaiswal",
+  "icon": "icon.png",
   "version": "0.0.1",
+  "keywords": [
+    "MechAsh",
+    "Dark Aether",
+    "Themes",
+    "Ashish Jaiswal",
+    "VS code"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mechash/dark-aether-theme.git"
+  },
   "engines": {
     "vscode": "^1.89.0"
   },
