@@ -1825,8 +1825,8 @@
       }
     },
     {
-      "name": "puntuation",
-      "scope": "entity.name.function.definition,meta.function.definition",
+      "name": "function def",
+      "scope": "entity.name.function.definition,meta.function.definition.c,meta.function.definition.parameters.c",
       "settings": {
         "foreground": "#8daf3d",
         "fontStyle": "underline"
@@ -1871,23 +1871,13 @@
     },
     {
       "name": "funcation call",
-      "scope": "entity.name.function.call,meta.function-call",
+      "scope": "entity.name.function.call,meta.function-call.c",
       "settings": {
         "foreground": "#8daf3d",
         "fontStyle": "italic"
       }
     },
-    {
-      "name": "Functions",
-      "scope": [
-        // "entity.name.function",
-        // "meta.require",
-        // "variable.function"
-      ],
-      "settings": {
-        // "foreground": "#cf95b2"
-      }
-    },
+
     {
       "name": "funcation member",
       "scope": "entity.name.function.member",
