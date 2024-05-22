@@ -596,7 +596,7 @@
       "name": "Keyword Control",
       "scope": "keyword.control",
       "settings": {
-        "foreground": "#9d4a9f"
+        "foreground": "#c25dc4"
       }
     },
     {
