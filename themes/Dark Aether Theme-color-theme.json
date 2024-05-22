@@ -1826,10 +1826,10 @@
     },
     {
       "name": "function def",
-      "scope": "entity.name.function.definition,meta.function.definition.c,meta.function.definition.parameters.c",
+      "scope": "entity.name.function.definition,meta.function.definition",
       "settings": {
         "foreground": "#8daf3d",
-        "fontStyle": "underline"
+        // "fontStyle": "underline"
       }
     },
     {
@@ -1873,7 +1873,7 @@
       "name": "funcation call",
       "scope": "entity.name.function.call,meta.function-call.c",
       "settings": {
-        "foreground": "#8daf3d",
+        "foreground": "#59a353",
         "fontStyle": "italic"
       }
     },
