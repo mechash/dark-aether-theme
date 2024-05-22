@@ -1826,7 +1826,7 @@
     },
     {
       "name": "puntuation",
-      "scope": "entity.name.function.definition",
+      "scope": "entity.name.function.definition,meta.function.definition",
       "settings": {
         "foreground": "#8daf3d",
         "fontStyle": "underline"
@@ -1871,7 +1871,7 @@
     },
     {
       "name": "funcation call",
-      "scope": "entity.name.function.call",
+      "scope": "entity.name.function.call,meta.function-call",
       "settings": {
         "foreground": "#8daf3d",
         "fontStyle": "italic"
