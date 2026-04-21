@@ -6,15 +6,24 @@
   "icon": "icon.png",
   "version": "0.0.6",
   "keywords": [
+    "dark",
+    "aether",
+    "teal",
+    "ocean",
+    "dark theme",
     "MechAsh",
-    "Dark Aether",
-    "Themes",
-    "Ashish Jaiswal",
-    "VS code"
+    "C/C++",
+    "embedded",
+    "Ashish Jaiswal"
   ],
   "repository": {
     "type": "git",
     "url": "https://github.com/mechash/dark-aether-theme.git"
+  },
+  "homepage": "https://github.com/mechash/dark-aether-theme#readme",
+  "galleryBanner": {
+    "color": "#182126",
+    "theme": "dark"
   },
   "engines": {
     "vscode": "^1.89.0"

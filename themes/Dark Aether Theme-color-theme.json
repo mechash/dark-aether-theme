@@ -8,7 +8,7 @@
  #  Created Date: Mon, 20th May 2024                                           #
  #  Brief:                                                                     #
  #  - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  #
- #  Last Modified: Mon, 20th May 2024                                          #
+ #  Last Modified: Mon, 21st Apr 2026                                          #
  #  Modified By: AJ                                                            #
  #  - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  #
  #  HISTORY:                                                                   #
@@ -1780,7 +1780,7 @@
       }
     },
     {
-      "name": "define and inclued",
+      "name": "define and include",
       "scope": "keyword.control.directive.define,keyword.control.directive.include",
       "settings": {
         "foreground": "#9d489e",
@@ -1817,7 +1817,7 @@
       }
     },
     {
-      "name": "puntuation",
+      "name": "punctuation",
       "scope": "punctuation.terminator.statement",
       "settings": {
         "foreground": "#d04175",
@@ -1870,7 +1870,7 @@
       }
     },
     {
-      "name": "funcation call",
+      "name": "function call",
       "scope": "entity.name.function.call,meta.function-call.c",
       "settings": {
         "foreground": "#59a353",
@@ -1879,7 +1879,7 @@
     },
 
     {
-      "name": "funcation member",
+      "name": "function member",
       "scope": "entity.name.function.member",
       "settings": {
         "foreground": "#16b07a",
