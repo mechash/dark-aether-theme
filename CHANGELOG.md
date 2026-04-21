@@ -4,7 +4,7 @@ Changes to Dark Aether Theme, newest first.
 
 ---
 
-## [0.0.6] — 2026-04-21
+## [1.0.0] — 2026
 
 ### Changed
 - Fixed a handful of typos in token names (`"puntuation"`, `"funcation call"`, `"funcation member"`, `"define and inclued"`) — these were just display names so nothing broke, but still
@@ -13,7 +13,7 @@ Changes to Dark Aether Theme, newest first.
 
 ---
 
-## [0.0.5] — 2024
+## [0.0.6] — 2024
 
 ### Added
 - Proper C/C++ semantic tokens — this took a while to get right. Local variables, global variables, function calls, function definitions, and member functions each get their own color now instead of everything blending together
@@ -23,7 +23,7 @@ Changes to Dark Aether Theme, newest first.
 
 ---
 
-## [0.0.4] — 2024
+## [0.0.5] — 2024
 
 ### Added
 - HLSL support — semantic variables, texture/sampler types
@@ -35,7 +35,7 @@ Changes to Dark Aether Theme, newest first.
 
 ---
 
-## [0.0.3] — 2024
+## [0.0.4] — 2024
 
 ### Added
 - Go tokens — assignment, arithmetic, address operators, package names
@@ -45,7 +45,7 @@ Changes to Dark Aether Theme, newest first.
 
 ---
 
-## [0.0.2] — 2024
+## [0.0.3] — 2024
 
 ### Added
 - PHP: Blade templates, heredoc/nowdoc, function calls, type hints
@@ -58,7 +58,7 @@ Changes to Dark Aether Theme, newest first.
 
 ---
 
-## [0.0.1] — 2024-05-20
+## [0.0.2] — 2024-05-20
 
 ### Added
 - First release
