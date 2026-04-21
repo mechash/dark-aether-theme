@@ -4,7 +4,7 @@
 
 # Dark Aether Theme
 
-**A dark VS Code theme built around a deep teal palette — easy on the eyes for long sessions.**
+**A dark VS Code theme built around a deep teal palette - easy on the eyes for long sessions.**
 
 [![Version](https://img.shields.io/badge/Version-0.0.6-30b0b6.png?style=flat-square&labelColor=182126)](https://marketplace.visualstudio.com/items?itemName=MechAsh.dark-aether-theme)
 [![Marketplace](https://img.shields.io/badge/VS_Marketplace-Install-de9409.png?style=flat-square&labelColor=182126)](https://marketplace.visualstudio.com/items?itemName=MechAsh.dark-aether-theme)
@@ -16,7 +16,7 @@
 
 ## ✨ Overview
 
-Dark Aether started as my personal theme — I wanted something dark that wasn't just another clone of One Dark or Dracula. The background (`#182126`) is a deep teal-black that doesn't feel flat, operators stand out in rose-pink, strings sit in olive-gold, and teal covers functions and types. It's been tuned over time to work well across a lot of languages, but honestly the C/C++ support is where it gets specific.
+Dark Aether started as my personal theme - I wanted something dark that wasn't just another clone of One Dark or Dracula. The background (`#182126`) is a deep teal-black that doesn't feel flat, operators stand out in rose-pink, strings sit in olive-gold, and teal covers functions and types. It's been tuned over time to work well across a lot of languages, but honestly the C/C++ support is where it gets specific.
 
 ---
 
@@ -64,13 +64,13 @@ code --install-extension MechAsh.dark-aether-theme
 
 ## 🖥️ Language Support
 
-Token scopes have been written or adjusted for each of these — it's not just "inherits the default":
+Token scopes have been written or adjusted for each of these - it's not just "inherits the default":
 
 | Language | Support Level |
 |---|---|
-| **C / C++** | ⭐⭐⭐⭐⭐ Full — macros, preprocessor, local/global vars, function types |
-| **Python** | ⭐⭐⭐⭐⭐ Full — decorators, self, type hints, builtins |
-| **JavaScript / TypeScript** | ⭐⭐⭐⭐⭐ Full — JSX/TSX, template literals, modules, DOM |
+| **C / C++** | ⭐⭐⭐⭐⭐ Full - macros, preprocessor, local/global vars, function types |
+| **Python** | ⭐⭐⭐⭐⭐ Full - decorators, self, type hints, builtins |
+| **JavaScript / TypeScript** | ⭐⭐⭐⭐⭐ Full - JSX/TSX, template literals, modules, DOM |
 | **Rust** | ⭐⭐⭐⭐ Lifetimes, traits, std functions |
 | **Go** | ⭐⭐⭐⭐ Operators, package names, goroutine keywords |
 | **PHP** | ⭐⭐⭐⭐ Blade templates, heredoc, type hints |
@@ -100,7 +100,7 @@ This is the part that took the most time. A lot of themes just throw everything 
 Comments, local variables, and function calls are italicized. It adds a layer of visual distinction without needing more colors.
 
 ### Teal UI Shell
-The activity bar, sidebar, status bar, tabs, and terminal all share the same teal-dark palette. Nothing jumps out unexpectedly — the UI stays out of the way of your code.
+The activity bar, sidebar, status bar, tabs, and terminal all share the same teal-dark palette. Nothing jumps out unexpectedly - the UI stays out of the way of your code.
 
 ---
 
@@ -142,7 +142,7 @@ Found a language that looks off, or want to add support for something new?
 1. Fork the [repository](https://github.com/mechash/dark-aether-theme)
 2. Edit `themes/Dark Aether Theme-color-theme.json`
 3. Hit **F5** to open an Extension Development Host and test it live
-4. Open a Pull Request — describe what you changed and what it fixes
+4. Open a Pull Request - describe what you changed and what it fixes
 
 Language-specific token improvements are especially welcome.
 
