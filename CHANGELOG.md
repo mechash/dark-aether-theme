@@ -4,7 +4,15 @@ Changes to Dark Aether Theme, newest first.
 
 ---
 
-## [1.0.0] — 2026
+## [1.0.1] — 2026-04-22
+
+### Changed
+- Bumped extension version to `1.0.1`
+- Updated README version badge to `1.0.1`
+
+---
+
+## [1.0.0] — 2026-04-22
 
 ### Changed
 - Fixed a handful of typos in token names (`"puntuation"`, `"funcation call"`, `"funcation member"`, `"define and inclued"`) — these were just display names so nothing broke, but still

@@ -6,7 +6,7 @@
 
 **A dark VS Code theme built around a deep teal palette - easy on the eyes for long sessions.**
 
-[![Version](https://img.shields.io/badge/Version-0.0.6-30b0b6.png?style=flat-square&labelColor=182126)](https://marketplace.visualstudio.com/items?itemName=MechAsh.dark-aether-theme)
+[![Version](https://img.shields.io/badge/Version-1.0.1-30b0b6.png?style=flat-square&labelColor=182126)](https://marketplace.visualstudio.com/items?itemName=MechAsh.dark-aether-theme)
 [![Marketplace](https://img.shields.io/badge/VS_Marketplace-Install-de9409.png?style=flat-square&labelColor=182126)](https://marketplace.visualstudio.com/items?itemName=MechAsh.dark-aether-theme)
 [![License](https://img.shields.io/badge/License-MIT-577c7a.png?style=flat-square&labelColor=182126)](LICENSE)
 
